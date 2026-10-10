@@ -5,7 +5,6 @@
 **Name:** Aishwarya Vibhute  
 **PRN:** 26UAM306  
 **Division:** SY-A  
-**Semester:** VI
 
 ## Overview
 This repository contains the SLE-4 documentation for the Introduction to AI course. The work connects the outcomes of SLE-1, SLE-2, and SLE-3 and presents a design decision in an Architecture Decision Record (ADR).
