@@ -2,7 +2,7 @@
 # SLE-4: Final Viva & Architecture Decision Record (ADR) Defense
 
 **Course:** 02AML204 – Introduction to AI  
-**Name:** Aishwarya Sanjay Vibhute  
+**Name:** Aishwarya Vibhute  
 **PRN:** 26UAM306  
 **Division:** SY-A  
 **Semester:** VI
